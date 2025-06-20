@@ -1,2 +1,2 @@
-# supreme-succotash
+# IPL Score Predictor
 IPL Score Predictor
