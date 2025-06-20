@@ -1,5 +1,4 @@
 # IPL Score Predictor
-IPL Score Predictor
 This project uses Deep Learning techniques to predict the final score of an ongoing IPL match in real time based on current match conditions.
 It provides an interactive score prediction tool using Jupyter Notebook widgets, allowing users to input match details like venue, teams, overs, and player names to get instant score predictions.
 ## 📌 Project Workflow
