@@ -1,5 +1,4 @@
 .ipynb_checkpoints/ 
-*.csv 
 *_backup.ipynb 
 __pycache__/ 
 *.pyc 
